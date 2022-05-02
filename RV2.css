@@ -1,0 +1,115 @@
+h2{margin-left: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 200px;/* line-height: 2; */
+    color: #eb6daa;
+    text-align: center;}
+
+.leader{text-align: center;
+            margin-left: 2000px;
+            margin-right: 2000px;
+            color: black;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: 200;
+            font-size: 60px;}
+
+.image1{margin-top: 30px;
+       width: 1600px;
+       height: 1200px;
+       align-self: center;
+       box-shadow: 5px 5px 15px 1px black;}
+
+.heading{margin-left: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 140px;/* line-height: 2; */
+    color: #7b0840;
+    text-align: center;
+    font-weight: 500;}
+
+.quote1{  font-size: 120px;
+         font-weight: 800;
+         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         color: #f697c3;
+         margin-right: 19000px;
+         margin-left: 50px;
+         margin-top: 200px;
+         text-decoration: wavy;
+         position: absolute;
+         z-index: 1;
+         text-align: left;}
+
+.quote2{ font-size: 120px;
+        font-weight: 800;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #d488ab;
+        margin-right: 40px;
+        margin-left: 5500px;
+        margin-top: 40px;
+        text-decoration: wavy;
+        position: absolute;
+        z-index: 1;
+        text-align: right;}
+
+.image2{margin-top: 30px;
+    margin-left: 2497px;
+    margin-right:4100px ;
+    width: 1000px;
+    height: 1000px;
+    box-shadow: 5px 5px 15px 1px rgb(84, 185, 235);}
+
+.leader1{text-align: center;
+    margin-left: 2000px;
+    margin-right: 2000px;
+    z-index: 2;
+    position: absolute;
+    margin-top: 70px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    font-size: 60px;}
+
+.leader2{text-align: center;
+    margin-left: 2250px;
+    background-image: url("data:image/jpeg;base64,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");
+    background-size: cover;
+    background-position: center;
+    padding: 120px;
+    position: absolute;
+    margin-right: 2300px;
+    margin-top: 1000px;
+    color: rgb(253, 253, 253);
+    font-family:'Sacramento', cursive;
+    font-weight: 600;
+    font-size: 100px;}
+
+.leader3{text-align: center;
+    margin-left: 1960px;
+    margin-right: 2000px;
+    margin-top: 1900px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    font-size: 60px;}
+
+.leader4{text-align: center;
+    margin-left: 1960px;
+    margin-right: 2000px;
+    margin-top: 100px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    font-size: 60px;}
+
+.q1{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(237, 150, 216);
+    width:800px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border:4px solid rgb(135, 5, 65);
+    border-radius: 100px;
+    margin-left: 2640px;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    font-size: 80px;
+    text-align: center;
+    color: rgb(206, 0, 113);
+    box-shadow: 5px 5px 8px 1px grey;}
